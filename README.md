@@ -1,3 +1,3 @@
-Images: http://unsplash.com/
+unsplash.com + metaphorpsum.com = \o/
 
-Words: http://metaphorpsum.com/
+http://unsplashed-metaphor.herokuapp.com/

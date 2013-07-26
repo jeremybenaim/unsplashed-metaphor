@@ -4,6 +4,7 @@ var request = require('request'),
     fs = require('fs'),
     jsdom = require('jsdom');
 
+var port = process.env.PORT || 1337;
 
 // return an error 500 + log the error
 function err500 (err, res) {
@@ -55,6 +56,6 @@ http.createServer(function (req, res) {
     res.end();
   }
 
-}).listen(1337, '0.0.0.0');
+}).listen(port, '0.0.0.0');
 // and voila
-console.log('Server running at http://0.0.0.0:1337/');
+console.log('Server running at localhost at port ' + port);

@@ -1,8 +1,12 @@
 {
-  "name": "Test",
+  "name": "unsplashed-metaphor",
   "version": "0.1.0",
   "dependencies" : {
     "request"   :  "*",
     "jsdom" :  "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
   }
 }

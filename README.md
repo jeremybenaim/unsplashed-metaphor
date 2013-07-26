@@ -1,4 +1,3 @@
-unsplashed-metaphor
-===================
+Images: http://unsplash.com/
 
-Splash screen with random metaphor – a mashup of unsplash.com &amp; metaphorpsum.com 
+Words: http://metaphorpsum.com/
